@@ -1,0 +1,28 @@
+# Angular build output
+/dist
+/.angular
+
+# Webpack specific
+/.webpack
+/webpack-stats.json
+
+# Node modules
+/node_modules
+
+# Environment files
+/src/environments/*.js
+/src/environments/*.js.map
+
+# IDE specific
+/.idea
+/.vscode
+*.sublime-workspace
+*.sublime-project
+
+# Compiled output
+*.js.map
+*.css.map
+
+# System Files
+.DS_Store
+Thumbs.db
